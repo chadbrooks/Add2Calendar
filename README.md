@@ -30,11 +30,11 @@ To use the Office 365 Angular Connect sample, you need the following:
 
 To learn more about the sample, visit the [Angular walkthrough on graph.microsoft.io.](http://graph.microsoft.io/docs/platform/angular). 
 
-	![screenshot1](https://raw.githubusercontent.com/chadbrooks/Add2Calendar/master/README%20assets/screenshot1.png)
+![screenshot1](https://raw.githubusercontent.com/chadbrooks/Add2Calendar/master/README%20assets/screenshot1.png)
 
-	![Screenshot2](/README assets/screenshot1.png)
+![Screenshot2](/README assets/screenshot1.png)
 
-	![Office 365 Angular Connect sample screenshot](./README assets/screenshot.png)
+![Office 365 Angular Connect sample screenshot](./README assets/screenshot.png)
 
 ## Register your application with Azure Active Directory
 	1. Sign into the Azure Management Portal using your Office 365 Tenant Administrator credentials.
