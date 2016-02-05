@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{afca210a-d3ba-4ce9-9afb-2c747654adbd}</ProjectGuid>
     <ProjectHome />
-    <ProjectView>ProjectFiles</ProjectView>
+    <ProjectView>ShowAllFiles</ProjectView>
     <StartupFile>server.js</StartupFile>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -19,6 +19,11 @@
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
   <ItemGroup>
     <Content Include="package.json" />
+    <Content Include="README assets\screenshot1.png" />
+    <Content Include="README assets\screenshot2.png" />
+    <Content Include="README assets\screenshot3.png" />
+    <Content Include="README assets\screenshot4.png" />
+    <Content Include="README assets\screenshot5.png" />
     <Content Include="README.md" />
     <Compile Include="server.js" />
     <Content Include="public\index.html" />
