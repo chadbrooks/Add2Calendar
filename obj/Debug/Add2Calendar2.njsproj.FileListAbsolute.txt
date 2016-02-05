@@ -1,0 +1,2 @@
+C:\Users\chabrook\Documents\Visual Studio 2015\Projects\O365-Angular-Microsoft-Graph-Connect-master\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\chabrook\Documents\Visual Studio 2015\Projects\O365-Angular-Microsoft-Graph-Connect-master\obj\Debug\Add2Calendar2.njsprojResolveAssemblyReference.cache
