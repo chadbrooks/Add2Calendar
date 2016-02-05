@@ -51,17 +51,23 @@ To learn more about the sample, visit the [Angular walkthrough on graph.microsof
 	10. In permissions to other applications, click Add application.
 	11. Click Microsoft Graph, and then click the check mark icon. 
 	12. Under permissions to other applications, click the Delegated Permissions column for Microsoft Graph.  Select Have Full Access to User's Calendars
+
 ![Office 365 Angular Connect sample screenshot](./README assets/screenshot3.png)
+
 	These are the permissions that will be displayed to your app user when Azure prompts them to consent to your app's permission request. In general, request only the services your app actually requires, and specify the least level of permissions in each service that still enable your app to perform its functions.
 	13. Select Yes for Application is Multi-Tenant.  This will allow the application to read from any Tenant in O365 if the user gives permission.
+
 ![Office 365 Angular Connect sample screenshot](./README assets/screenshot4.png)
+
 	14. Copy the value specified for Client ID; you will need to paste this into the config.js file in the project.  
+
 ![Office 365 Angular Connect sample screenshot](./README assets/screenshot5.png)
+
 	15. Click Save in the bottom menu.
 
 ## Questions and comments
 
-We'd love to get your feedback about the Office 365 Calendar sample. You can send your questions and suggestions to us in the [Issues](https://github.com/OfficeDev/O365-Angular-Microsoft-Graph-Connect/issues) section of this repository.
+We'd love to get your feedback about the Office 365 Calendar sample. You can send your questions and suggestions to us in the [Issues](https://github.com/chadbrooks/Add2Calendar/issues) section of this repository.
 
 Your feedback is important to us. Connect with us on [Stack Overflow](http://stackoverflow.com/questions/tagged/office365+or+microsoftgraph). Tag your questions with [MicrosoftGraph] and [office365].
   
