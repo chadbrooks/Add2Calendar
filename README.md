@@ -33,10 +33,16 @@ To learn more about the sample, visit the [Angular walkthrough on graph.microsof
 ## Register your application with Azure Active Directory
 	1. Sign into the Azure Management Portal using your Office 365 Tenant Administrator credentials.
 	2. Click Active Directory on the left menu, then click on the directory for your Office 365 developer site. 
-	![Office 365 Angular Connect sample screenshot](./README assets/screenshot1.png)
+
+	![Office 365 Angular Connect sample screenshot](./README assets/screenshot.png)
+
+	![Office 365 Angular Connect sample screenshot2](./README assets/screenshot1.png)
+
 	3. On the top menu, click Applications.
 	4. Click Add from the bottom menu.
+
 	![Office 365 Angular Connect sample screenshot](./README assets/screenshot2.png)
+
 	5. On the What do you want to do page, click Add an application my organization is developing.
 	6. On the Tell us about your application page, specify any name [Add2Calendar] for the application name and select NATIVE CLIENT APPLICATION [in this case you want web application] for Type.
 	7. Click the arrow icon on the bottom-right corner of the page.
