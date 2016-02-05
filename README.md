@@ -34,8 +34,6 @@ To learn more about the sample, visit the [Angular walkthrough on graph.microsof
 	1. Sign into the Azure Management Portal using your Office 365 Tenant Administrator credentials.
 	2. Click Active Directory on the left menu, then click on the directory for your Office 365 developer site. 
 
-![Office 365 Angular Connect sample screenshot](README assets/screenshot.png)
-
 ![Office 365 Angular Connect sample screenshot2](/README assets/screenshot1.png)
 
 	3. On the top menu, click Applications.
@@ -50,11 +48,10 @@ To learn more about the sample, visit the [Angular walkthrough on graph.microsof
 	9. Once the application has been successfully added, you will be taken to the Quick Start page for the application. From here, click Configure in the top menu.
 	10. In permissions to other applications, click Add application.
 	11. Click Microsoft Graph, and then click the check mark icon. 
-	12. Under permissions to other applications, click the Delegated Permissions column for Microsoft Graph.  Select Have Full Access to User's Calendars
+	12. Under permissions to other applications, click the Delegated Permissions column for Microsoft Graph.  Select Have Full Access to User's Calendars. These are the permissions that will be displayed to your app user when Azure prompts them to consent to your app's permission request. In general, request only the services your app actually requires, and specify the least level of permissions in each service that still enable your app to perform its functions.
 
 ![Office 365 Angular Connect sample screenshot](./README assets/screenshot3.png)
 
-	These are the permissions that will be displayed to your app user when Azure prompts them to consent to your app's permission request. In general, request only the services your app actually requires, and specify the least level of permissions in each service that still enable your app to perform its functions.
 	13. Select Yes for Application is Multi-Tenant.  This will allow the application to read from any Tenant in O365 if the user gives permission.
 
 ![Office 365 Angular Connect sample screenshot](./README assets/screenshot4.png)
